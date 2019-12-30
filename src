@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<head>
+	<title></title>
+</head>
+<body>
+<table>
+    <tr class="tr_1">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+    <tr class="tr_2">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="red"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+		<td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="gray"s></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td  class="gray"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td class="blue"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td  class="gray"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+
+    </tr>
+ 
+    <tr>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+
+    </tr>
+ 
+    <tr>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td></td>
+        <td class="gray"></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+
+    </tr>
+ 
+    <tr>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td></td>
+        <td></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+        <td class="black"></td>
+
+    </tr>
+ 
+</table>
+</body>
+</html>
